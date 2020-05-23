@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4461ba7f-780a-46c3-9de5-c827f83d57d2" name="Ali-ECS">
+        <fileTransfer accessType="SFTP" host="47.113.102.197" port="22" sshConfigId="07feb2cb-9051-477d-8271-7d754db9cea0" sshConfig="root@47.113.102.197:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="47.113.102.197" id="07feb2cb-9051-477d-8271-7d754db9cea0" keyPath="$PROJECT_DIR$/../Website.pem" port="22" nameFormat="DESCRIPTIVE" username="root" />
+    </configs>
+  </component>
+</project>
